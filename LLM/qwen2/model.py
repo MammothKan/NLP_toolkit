@@ -51,3 +51,5 @@ class Qwen2Attention(nn.Module):
         if True:
             pass
         cos, sin = self.rotary_emb()
+        
+        change
